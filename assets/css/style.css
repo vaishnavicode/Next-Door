@@ -1,11 +1,3 @@
-/**
-* Template Name: NextDoor
-* Template URL: https://bootstrapmade.com/real-Next-Door-bootstrap-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -477,7 +469,7 @@ a:hover {
 
 .nav-arrow-b .owl-arrow .owl-nav .owl-prev:hover,
 .nav-arrow-b .owl-arrow .owl-nav .owl-next:hover {
-    background-color: #26a356;
+    background-color: #0e3c6d;
 }
 
 .nav-arrow-b .owl-arrow .owl-nav .owl-next {
